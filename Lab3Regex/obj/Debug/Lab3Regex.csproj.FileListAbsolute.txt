@@ -1,0 +1,6 @@
+C:\Users\Yaroslav\RiderProjects\Lab3Regex\Lab3Regex\obj\Debug\Lab3Regex.csproj.AssemblyReference.cache
+C:\Users\Yaroslav\RiderProjects\Lab3Regex\Lab3Regex\obj\Debug\Lab3Regex.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\RiderProjects\Lab3Regex\Lab3Regex\bin\Debug\Lab3Regex.exe
+C:\Users\Yaroslav\RiderProjects\Lab3Regex\Lab3Regex\bin\Debug\Lab3Regex.pdb
+C:\Users\Yaroslav\RiderProjects\Lab3Regex\Lab3Regex\obj\Debug\Lab3Regex.exe
+C:\Users\Yaroslav\RiderProjects\Lab3Regex\Lab3Regex\obj\Debug\Lab3Regex.pdb
